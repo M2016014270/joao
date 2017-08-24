@@ -4,9 +4,6 @@
 	background-size: cover;
 	border: none;
 	backgound-attachment: scroll;
-	position: fixed;
-	top: 0px;
-	left: 0px;
 	height: 100em;
 	width: 100em;
 }
