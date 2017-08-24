@@ -1,7 +1,7 @@
 
 .fundo{
 	background-position: center;
-	background-size: auto;
+	background-size: cover;
 }
 .MenuFoto{
 	position: fixed;
