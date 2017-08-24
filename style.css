@@ -3,12 +3,8 @@
 	
 	background-position: center;
     	background-size: cover;
-	position: fixed;
-	top: -10px;
-	left: -10px;
-	right: -10px;
 	height: 100px;
-	width: 100%;
+	width: 70%;
 	margin: auto;
 }
 .MenuFoto{
