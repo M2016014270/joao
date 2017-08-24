@@ -3,6 +3,8 @@
 	background-position: center;
 	width: 100em;
 	height: 100%;
+	position: relative;
+	
 }
 .MenuFoto{
 	position: fixed;
@@ -64,7 +66,7 @@ h4{
 	text-overflow: ellipsis;
 	background-color: grey;
 	color: white;
-	position: relative;
+	position: absolute;
 	bottom: 0;
 	right: 0;
 		
