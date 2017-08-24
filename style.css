@@ -65,8 +65,9 @@ h4{
 	background-color: grey;
 	color: white;
 	position: relative;
-	bottom: 0em;
-	right: 0px;
+	bottom: 0;
+	right: 0;
+		
 	border: 13px double #33FFFF;
 	font-style: italic;
 	font-size: 40px;
